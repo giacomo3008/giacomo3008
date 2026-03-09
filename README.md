@@ -6,13 +6,21 @@ I enjoy understanding how complex systems are designed, scaled, and maintained. 
 
 ---
 
+## Links
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/giacomo3008)
+[![Hotel Booking Project](https://img.shields.io/badge/Hotel_Booking_Project-Repository-2ea44f?style=for-the-badge&logo=github)](LINK_REPO_HOTEL)
+[![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-Repository-2ea44f?style=for-the-badge&logo=github)](LINK_REPO_DISTRIBUTED)
+[![Embedded Calibration](https://img.shields.io/badge/Embedded_Project-Repository-2ea44f?style=for-the-badge&logo=github)](LINK_REPO_EMBEDDED)
+
+---
+
 ## About Me
 
 - MSc in Computer Science & Engineering — **Politecnico di Milano**
 - BSc in Computer Engineering — **University of Padua**
-- Interested in **distributed architectures**, **software engineering**, and **AI**
+- Interested in **distributed architectures**, **software engineering**, and **Machine Learning**
 - Background in **full-stack development**
-- International experience in **Dublin, Ireland**
 
 ---
 
@@ -30,13 +38,9 @@ I enjoy understanding how complex systems are designed, scaled, and maintained. 
 
 `Akka` • `Kafka` • `MPI` • `Spark`
 
-**Tools**
-
-`Git` • `Linux` • `REST APIs`
-
 ---
 
-## Projects
+## Main Projects
 
 ### Full Stack Hotel Booking Platform
 Airbnb-like application built with **React** and **ASP.NET** with relational database design.
@@ -49,15 +53,6 @@ Low-level **C++** project developed in a **Miosix embedded environment**.
 
 ### Software Architecture Design
 Full **RASD** and **Design Document** for a complex system applying software architecture principles.
-
----
-
-## Current Focus
-
-- Distributed system design  
-- Scalable backend architectures  
-- Machine learning applications  
-- Writing clean, maintainable software
 
 ---
 
