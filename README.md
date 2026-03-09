@@ -1,4 +1,4 @@
-Giacomo Rigo
+# Giacomo Rigo
 
 🎓 MSc in Computer Science & Engineering @ **Politecnico di Milano**  
 💻 Interested in **software architecture**, **distributed systems**, and **machine learning**
