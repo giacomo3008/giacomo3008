@@ -37,28 +37,28 @@ Most of my work focuses on backend development, system design, and experimenting
 ### Full Stack Hotel Booking Platform
 Airbnb-like application built with **React** and **ASP.NET** with relational database design.
 
-[![View Repository](https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github)](LINK_REPO_HOTEL)
+[![View Repository](https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/giacomo3008/CAPSTONE-TravelApp)
 
 ---
 
 ### Distributed Systems Experiments
 Small distributed applications exploring communication models and data pipelines.
 
-[![View Repository](https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github)](LINK_REPO_DISTRIBUTED)
+[![View Repository](https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/giacomo3008/DistributedSystems_projects)
 
 ---
 
 ### Embedded Touchscreen Calibration System
 Low-level **C++** project developed in a **Miosix embedded environment**.
 
-[![View Repository](https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github)](LINK_REPO_EMBEDDED)
+[![View Repository](https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/giacomo3008/TuouchscreenCalibrationMiosix)
 
 ---
 
 ### Software Architecture Design
 Full **RASD** and **Design Document** for a complex system applying software architecture principles.
 
-[![View Repository](https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github)](LINK_REPO_ARCHITECTURE)
+[![View Repository](https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/giacomo3008/RASD_DD_BestBikePath-)
 
 ---
 
