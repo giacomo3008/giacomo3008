@@ -12,7 +12,6 @@ Most of my work focuses on backend development, system design, and experimenting
 
 - MSc in Computer Science & Engineering — **Politecnico di Milano**
 - BSc in Computer Engineering — **University of Padua**
-- Strong background in **Full-Stack Development**
 
 ---
 
